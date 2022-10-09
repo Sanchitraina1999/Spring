@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : knapsack.cpp
-// Author      : Koushal Bhat
+// Author      : Koushal Bhat BHai ye to mera hai 
 // Roll no.    : 33332
 // batch       : L11
 // Subject     : LP 
